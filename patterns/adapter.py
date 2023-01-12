@@ -13,7 +13,7 @@ class EuropeanSocketInterface:
         pass
 
 
-# Adaptee
+# Adapter
 class Socket(EuropeanSocketInterface):
     def voltage(self):
         return 230
