@@ -10,7 +10,7 @@ The new operator considered harmful.
 Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
 A hierarchy that encapsulates: many possible "platforms", and the construction of a suite of "products".
 The new operator considered harmful.
-[https://github.com/maiermarc75/design_pattern/blob/main/patterns/apstract_factory.py)](https://github.com/maiermarc75/design_pattern/blob/main/patterns/apstract_factory.py)
+[https://github.com/maiermarc75/design_pattern/blob/main/patterns/abstract_factory.py)](https://github.com/maiermarc75/design_pattern/blob/main/patterns/abstract_factory.py)
 ### - Builder Pattern
 Separate the construction of a complex object from its representation so that the same construction process can create different representations.
 Parse a complex representation, create one of several targets.
